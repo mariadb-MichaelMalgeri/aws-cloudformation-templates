@@ -33,10 +33,10 @@ xpandVersionDir
 
 Run the template to create the cluslter with the following commands
 
-# cd to_project_directory
-# aws cloudformation create-stack --stack-name your_stack_name --template-body file://xpand-cluster-ebs.yaml
+\# cd to_project_directory
+\# aws cloudformation create-stack --stack-name your_stack_name --template-body file://xpand-cluster-ebs.yaml
 
 To delete a stack created with this CFT run the following commands
 
-# cd to_project_dir
-# aws cloudformation delete-stack --stack-name your_stack_name
+\# cd to_project_dir
+\# aws cloudformation delete-stack --stack-name your_stack_name
