@@ -13,13 +13,13 @@ export AWS_ACCESS_KEY_ID="xxxx"
 export AWS_SECRET_ACCESS_KEY="xxx"  
 
 export AWS_SESSION_TOKEN='xxx'   
- 
+
 
 
 # xpand-cluster-ebs.yaml
 
-This CFT will create a 3-node Xpand cluster in the virtual private cloud specified by the VpcID 
-The cluster will be front-ended with a MaxScale instance
+**This CFT will create a 3-node Xpand cluster in the virtual private cloud specified by the VpcID 
+The cluster will be front-ended with a MaxScale instance**
 
 The following parameters should be set in the AWS Systems Manager/Parameter store for this template
 
