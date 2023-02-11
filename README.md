@@ -6,10 +6,14 @@ In order to run the aws CLI commands to launch the CFT you will probably need to
 
 Here they are set in a .bash_profile file
 
-export AWS_DEFAULT_REGION=xxx
-export AWS_ACCESS_KEY_ID="xxxx"
-export AWS_SECRET_ACCESS_KEY="xxx"
-export AWS_SESSION_TOKEN='xxx'
+export AWS_DEFAULT_REGION=xxx  
+
+export AWS_ACCESS_KEY_ID="xxxx"  
+
+export AWS_SECRET_ACCESS_KEY="xxx"  
+
+export AWS_SESSION_TOKEN='xxx'  
+
 
 # xpand-cluster-ebs.yaml
 
